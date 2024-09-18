@@ -11,7 +11,7 @@ This repository includes a variety of productivity tools, each crafted to improv
 ### [Todo React](https://github.com/ahmedkamal14/Todo-React) ✅
 A task management application built with **Vite**, **React**, and **Tailwind CSS**. It features a clean UI for managing tasks with add, edit, and delete functionalities.
 
-- **[Live Preview](https://your-live-preview-link.com)**
+- **[Live Preview](https://ahmedkamal14.github.io/Todo-React/)**
 - **[Repository](https://github.com/ahmedkamal14/Todo-React)**
 
 ![Todo React](Todo.png)
@@ -21,7 +21,7 @@ A task management application built with **Vite**, **React**, and **Tailwind CSS
 ### [ID Info](https://github.com/ahmedkamal14/ID-Info) 🆔
 A tool designed to retrieve personal information from an Egyptian national ID number. Built with **Vite**, **React**, and **Tailwind CSS**, it provides a simple and effective interface for accessing ID details.
 
-- **[Live Preview](https://your-live-preview-link.com)**
+- **[Live Preview](https://ahmedkamal14.github.io/ID-Info/)**
 - **[Repository](https://github.com/ahmedkamal14/ID-Info)**
 
 ![ID Info](ID.png)
@@ -31,7 +31,7 @@ A tool designed to retrieve personal information from an Egyptian national ID nu
 ### [Budget App](https://github.com/ahmedkamal14/Budget-App) 💵
 A budgeting tool created with **HTML**, **CSS**, and **JavaScript**. It helps track expenses and manage budgets with a straightforward and responsive design.
 
-- **[Live Preview](https://your-live-preview-link.com)**
+- **[Live Preview](https://ahmedkamal14.github.io/Budget-App/)**
 - **[Repository](https://github.com/ahmedkamal14/Budget-App)**
 
 ![Budget App](Budget.png)
